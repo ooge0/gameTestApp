@@ -17,7 +17,7 @@
         <aspectj.version>1.9.1</aspectj.version>
         <selenide.version>5.3.1</selenide.version>
         <log4j-api.version>2.12.1</log4j-api.version>
-        <log4j-core.version>2.12.1</log4j-core.version>
+        <log4j-core.version>2.15.0</log4j-core.version>
         <assertj.version>3.14.0</assertj.version>
         <restAssured.version>4.1.2</restAssured.version>
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
